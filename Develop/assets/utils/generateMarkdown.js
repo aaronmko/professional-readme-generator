@@ -53,6 +53,15 @@ function generateMarkdown(data) {
 
   * [Questions](#questions)
 
+  ${renderLicenseLink(data.license)}
+  
+  ## Installations  💻
+
+  To install dependencies, run these commands:
+
+  \`\`\`
+  ${data.dependencies}
+  \`\`\`
   `;
 }
 
