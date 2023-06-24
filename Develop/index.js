@@ -52,7 +52,13 @@ const questions = [
         name: 'test',
         message: "What command do you enter to run the test?",
         default: 'npm test'
-    }
+    },
+
+    {
+        type: 'input',
+        name: 'contributors',
+        message: "Who are the main contributors of this repository?"
+    },
     
 ];
 
