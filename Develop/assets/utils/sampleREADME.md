@@ -3,7 +3,7 @@
 
 ## Description 
 
-  To create a professional readme file from node.js commands
+  To create a professional README using node.js.
 
   ## Table of Contents 
 
@@ -24,7 +24,7 @@
   To install dependencies, run these commands:
 
   ```
-  npm i
+  undefined
   ```
 
   ## Contributors
@@ -38,4 +38,11 @@
   ```
   node index.js
   ```
+
+  ## Questions
+
+  For additional questions, please contact me at my email or visit my GitHub page.
+
+  - GitHub: [aaronmko](https://github.com/aaronmko/)
+  - Email:  aaronmko@yahoo.com
   
