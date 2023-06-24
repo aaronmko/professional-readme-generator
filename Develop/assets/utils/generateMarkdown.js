@@ -55,7 +55,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseLink(data.license)}
   
-  ## Installations  💻
+  ## Installations
 
   To install dependencies, run these commands:
 
