@@ -51,7 +51,7 @@ const questions = [
         type: 'input',
         name: 'test',
         message: "What command do you enter to run the test?",
-        default: 'npm run test'
+        default: 'npm test'
     }
     
 ];
@@ -62,7 +62,13 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions)
+    .then((inquirerAnswers) => {
+        console.log("Generating.... Please wait....");
+        writeToFile("./assets/utils/sampleREADME.md", generateMarkdown({ ...inquirerAnswers }));
+    })
+}
 
 // Function call to initialize app
 init();
