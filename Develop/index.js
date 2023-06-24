@@ -44,14 +44,12 @@ const questions = [
         type: 'input',
         name: 'dependencies',
         message: "What dependencies need to be install prior to running?",
-        default: 'npm i'
     },
 
     {
         type: 'input',
         name: 'test',
         message: "What command do you enter to run the test?",
-        default: 'npm test'
     },
 
     {

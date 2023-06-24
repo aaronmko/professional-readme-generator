@@ -74,6 +74,13 @@ function generateMarkdown(data) {
   \`\`\`
   ${data.test}
   \`\`\`
+
+  ## Questions
+
+  For additional questions, please contact me at my email or visit my GitHub page.
+
+  - GitHub: [${data.github}](https://github.com/${data.github}/)
+  - Email:  ${data.email}
   `;
 }
 
