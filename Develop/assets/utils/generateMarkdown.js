@@ -62,6 +62,18 @@ function generateMarkdown(data) {
   \`\`\`
   ${data.dependencies}
   \`\`\`
+
+  ## Contributors
+
+  ${data.contributors}
+
+  ## Tests
+
+  To run tests, run these commands:
+
+  \`\`\`
+  ${data.test}
+  \`\`\`
   `;
 }
 
