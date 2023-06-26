@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   if (license === "") {
     return "";
   } else {
-    return `![${license}](${renderLicenseLink(license)})`
+    return `${renderLicenseLink(license)}`
   }
 }
 
@@ -28,8 +28,7 @@ function renderLicenseSection(license) {
   if (!license) {
     return ``;
   } else {
-    return `## Licenses
-    This project is covered under the ${license} license.`
+    return renderLicenseBadge(license);
   }
 }
 
