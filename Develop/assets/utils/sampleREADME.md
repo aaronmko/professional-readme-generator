@@ -1,9 +1,9 @@
-# Professional Readme Project
+# Professional README
   ![Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description 
 
-  To create a professional README using node.js.
+  TO create a professional readme using node.js
 
   ## Table of Contents 
 
@@ -16,20 +16,18 @@
   * [Test](#tests)
 
   * [Questions](#questions)
-
-  undefined
   
   ## Installations
 
   To install dependencies, run these commands:
 
   ```
-  undefined
+  npm i
   ```
 
   ## Contributors
 
-  Aaron
+  aaron ko
 
   ## Tests
 
@@ -44,5 +42,5 @@
   For additional questions, please contact me at my email or visit my GitHub page.
 
   - GitHub: [aaronmko](https://github.com/aaronmko/)
-  - Email:  aaronmko@yahoo.com
+  - Email:  aaronmko@ucla.edu
   

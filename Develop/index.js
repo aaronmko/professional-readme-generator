@@ -37,7 +37,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: "Choose the appropriate license for your application",
-        choices: ["Apache 2.0", "MIT License", "GNU GPLv3"]
+        choices: ["Apache 2.0", "MIT License", "GPL v3"]
     },
 
     {
@@ -61,7 +61,7 @@ const questions = [
 
         type: 'input',
         name: 'usage',
-        message: ''
+        message: 'Give a brief description of the usage of this application.'
     },
     
 ];
