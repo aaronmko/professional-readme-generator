@@ -7,6 +7,7 @@
 * [Installation](#installation)
 * [Description](#description)
 * [Usage](#usage)
+* [Screenshot](#screenshot)
 * [Questions](#questions)
 
 ## Installation
@@ -17,6 +18,13 @@
 
 ## Usage
 * To run the node index.js command and the Inquirer Package will begin prompting you questions for different sections of your README. Each answered question will dynamically create the table of contents and each respective section of your README.
+
+## Screenshot
+
+![Alt text](/Develop/assets/images/Screenshot%20image%20of%20deployed%20application.png)
+
+[Full Walkthrough  Video](https://drive.google.com/file/d/10u79zZYTjwRZMG7fc8DNqKYBB22Wszm-/view)
+
 ## License
 
 * This project is licensed under MIT License.
