@@ -1,9 +1,9 @@
 # adf
-  ![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![MIT](![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 ## Description 
 
-  adsf
+  adf
 
   ## Table of Contents 
 
@@ -17,20 +17,21 @@
 
   * [Questions](#questions)
 
-  ![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)
-
-  ## Usage
-  adf
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Installations
 
   To install dependencies, run these commands:
 
   ```
-  adf
+  asdf
   ```
 
-  ## Contributors
+  ## Usage
+  
+adf
+
+## Contributors
 
   adf
 
@@ -46,6 +47,6 @@
 
   For additional questions, please contact me at my email or visit my GitHub page.
 
-  - GitHub: [adsf](https://github.com/adsf/)
+  - GitHub: [adf](https://github.com/adf/)
   - Email:  adf
   
