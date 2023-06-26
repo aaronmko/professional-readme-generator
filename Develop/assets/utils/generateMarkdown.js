@@ -82,7 +82,7 @@ ${data.usage}
 
   ## Questions
 
-  For additional questions, please contact me at my email or visit my GitHub page.
+  For additional questions or would like to proide additional feedback, please contact me at my email below.
 
   - GitHub: [${data.github}](https://github.com/${data.github}/)
   - Email:  ${data.email}

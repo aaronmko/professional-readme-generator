@@ -1,5 +1,6 @@
 # adf
-  ![MIT](![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+  ## Licenses
+    This project is covered under the GPL v3 license.
 
 ## Description 
 
@@ -17,7 +18,7 @@
 
   * [Questions](#questions)
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  * ![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)
   
   ## Installations
 
@@ -29,11 +30,11 @@
 
   ## Usage
   
-adf
+adsf
 
 ## Contributors
 
-  adf
+  adsf
 
   ## Tests
 
@@ -47,6 +48,6 @@ adf
 
   For additional questions, please contact me at my email or visit my GitHub page.
 
-  - GitHub: [adf](https://github.com/adf/)
-  - Email:  adf
+  - GitHub: [asdf](https://github.com/asdf/)
+  - Email:  adsf
   
