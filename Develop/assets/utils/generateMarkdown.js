@@ -63,7 +63,11 @@ function generateMarkdown(data) {
   ${data.dependencies}
   \`\`\`
 
-  ## Contributors
+  ## Usage
+  
+${data.usage}
+
+## Contributors
 
   ${data.contributors}
 

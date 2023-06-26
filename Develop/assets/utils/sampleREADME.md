@@ -1,4 +1,4 @@
-# adsf
+# adf
   ![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
@@ -17,14 +17,17 @@
 
   * [Questions](#questions)
 
-  [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+  ![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)
+
+  ## Usage
+  adf
   
   ## Installations
 
   To install dependencies, run these commands:
 
   ```
-  asdf
+  adf
   ```
 
   ## Contributors
@@ -36,7 +39,7 @@
   To run tests, run these commands:
 
   ```
-  asdf
+  adf
   ```
 
   ## Questions
@@ -44,5 +47,5 @@
   For additional questions, please contact me at my email or visit my GitHub page.
 
   - GitHub: [adsf](https://github.com/adsf/)
-  - Email:  asdf
+  - Email:  adf
   
