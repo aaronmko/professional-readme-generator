@@ -1,54 +1,62 @@
-# d
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# Professional README Generator
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
 
-  g
+  To be able to create a high-quality professional README.
 
   ## Table of Contents 
 
   * [Installations](#installations)
 
   * [Usage](#usage)
-  
+
+  * [Screenshot](#screenshot)
+
   * [Contributors](#contributors)
 
   * [Test](#tests)
 
   * [Questions](#questions)
 
-  * ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  * ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Installations
 
   To install dependencies, run these commands:
 
   ```
-  asdf
+  npm i
   ```
 
   ## Usage
   
-adf
+To run the commmand node index.js where the inquirer package will begin prompts to create different sections of your README. When each question is answered it will dynamically created the respective sections and your table of contents to your README.
 
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Screenshot
+
+![Alt text](/Develop/assets/images/Screenshot%202023-06-26%20140441.png)
+
+[Full Walkthrough  Video](https://drive.google.com/file/d/10u79zZYTjwRZMG7fc8DNqKYBB22Wszm-/view)
 
 ## Contributors
 
-  adsf
+  Aaron Ko
 
   ## Tests
 
   To run tests, run these commands:
 
   ```
-  adf
+  node index.js
   ```
 
   ## Questions
 
   For additional questions or would like to proide additional feedback, please contact me at my email below.
 
-  - GitHub: [a](https://github.com/a/)
-  - Email:  s
+  - GitHub: [aaronmko](https://github.com/aaronmko/)
+  - Email:  aaronmko@ucla.edu
   
