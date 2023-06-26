@@ -57,6 +57,12 @@ const questions = [
         name: 'contributors',
         message: "Who are the main contributors of this repository?"
     },
+    {
+
+        type: 'input',
+        name: 'usage',
+        message: ''
+    },
     
 ];
 
