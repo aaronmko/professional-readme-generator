@@ -1,10 +1,10 @@
-# adf
+# c
   ## Licenses
-    This project is covered under the GPL v3 license.
+    This project is covered under the MIT license.
 
 ## Description 
 
-  adf
+  d
 
   ## Table of Contents 
 
@@ -18,36 +18,39 @@
 
   * [Questions](#questions)
 
-  * ![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)
+  * ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Installations
 
   To install dependencies, run these commands:
 
   ```
-  asdf
+  e
   ```
 
   ## Usage
   
-adsf
+h
+
+## Licenses
+    This project is covered under the MIT license.
 
 ## Contributors
 
-  adsf
+  g
 
   ## Tests
 
   To run tests, run these commands:
 
   ```
-  adf
+  f
   ```
 
   ## Questions
 
-  For additional questions, please contact me at my email or visit my GitHub page.
+  For additional questions or would like to proide additional feedback, please contact me at my email below.
 
-  - GitHub: [asdf](https://github.com/asdf/)
-  - Email:  adsf
+  - GitHub: [a](https://github.com/a/)
+  - Email:  b
   

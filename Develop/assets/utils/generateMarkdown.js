@@ -68,6 +68,8 @@ function generateMarkdown(data) {
   
 ${data.usage}
 
+${renderLicenseSection(data.license)}
+
 ## Contributors
 
   ${data.contributors}
