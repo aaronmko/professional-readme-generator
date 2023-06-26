@@ -35,12 +35,6 @@ To run the commmand node index.js where the inquirer package will begin prompts 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Screenshot
-
-![Alt text](/Develop/assets/images/Screenshot%20image%20of%20deployed%20application.png)
-
-[Full Walkthrough  Video](https://drive.google.com/file/d/10u79zZYTjwRZMG7fc8DNqKYBB22Wszm-/view)
-
 ## Contributors
 
   Aaron Ko
